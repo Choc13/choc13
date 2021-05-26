@@ -2,7 +2,7 @@ title: Stackbit Fresh Theme
 baseURL: /
 params:
   layout_style: overflow
-  palette: blue
+  palette: orange
   header:
     title: Matt Thornton
     tagline: Weening myself off OOP one design pattern at a time
