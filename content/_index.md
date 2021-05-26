@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m ~~Matt~~ Choc.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -29,17 +29,17 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Choc13
+  description: Choc13's personal site and blog
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Choc13
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Choc13's personal site and blog
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -48,9 +48,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Choc13
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Choc13's personal site and blog
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
